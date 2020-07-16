@@ -1,0 +1,9 @@
+<br />
+<font size='1'><table class='xdebug-error xe-uncaught-exception' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Uncaught Error: Call to undefined function did_action() in /home/vagrant/code/statybos/public/wp-content/themes/construction/inc/tgm/class-tgm-plugin-activation.php on line <i>2016</i></th></tr>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Error: Call to undefined function did_action() in /home/vagrant/code/statybos/public/wp-content/themes/construction/inc/tgm/class-tgm-plugin-activation.php on line <i>2016</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0028</td><td bgcolor='#eeeeec' align='right'>356096</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/home/vagrant/code/statybos/public/wp-content/themes/construction/inc/tgm/plugin-activation.php' bgcolor='#eeeeec'>.../plugin-activation.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0043</td><td bgcolor='#eeeeec' align='right'>364656</td><td bgcolor='#eeeeec'>require_once( <font color='#00bb00'>'/home/vagrant/code/statybos/public/wp-content/themes/construction/inc/tgm/class-tgm-plugin-activation.php'</font> )</td><td title='/home/vagrant/code/statybos/public/wp-content/themes/construction/inc/tgm/plugin-activation.php' bgcolor='#eeeeec'>.../plugin-activation.php<b>:</b>22</td></tr>
+</table></font>
